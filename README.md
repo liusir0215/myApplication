@@ -1,26 +1,3 @@
-![](http://res.cloudinary.com/hashnode/image/upload/w_200/v1455647564/static_imgs/mern/imgs/favicon-mern.png)
-
-# mern-starter
-![title](https://travis-ci.org/Hashnode/mern-starter.svg?branch=master)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-
-MERN is a scaffolding tool which makes it easy to build isomorphic apps using Mongo, Express, React and NodeJS. It minimizes the setup time and gets you up to speed using proven technologies.
-
-- [Website](http://mern.io)
-- [Documentation](http://mern.io/documentation.html)
-- [Discussions](https://hashnode.com/n/mern)
-
-## Quickstart
-
-```
-  npm install -g mern-cli
-  mern your_new_app
-  cd your_new_app
-  npm install
-  npm start
-```
-
 **Note : Please make sure your MongoDB is running and cross-env is installed globally before running `npm start`.** For MongoDB installation guide see [this](https://docs.mongodb.org/v3.0/installation/).
 
 ## File Structure
